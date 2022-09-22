@@ -7,4 +7,4 @@ if using postman to test API:
 
 2.Open Postman, run with address: localhost:8080/token with POST method, then you will receive a token, copy it.
 
-3. Crate new tab in Postman, Choose Basic Auth in Authorization and fill Username: "user", Password: "123456", then run this tab localhost:8080 with GET method
+3. Create new tab in Postman, Choose Basic Auth in Authorization and fill Username: "user", Password: "123456", then run this tab localhost:8080 with GET method
